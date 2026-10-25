@@ -1,0 +1,2 @@
+# daily-ai-project-2026-10-25-policygraph-agent-iac-security-remediation
+PolicyGraph-Agent is an autonomous security remediation system that ingests Infrastructure-as-Code (Terraform/OpenTofu) static scan findings, maps resource dependency graphs, and generates drift-safe configuration patches. Orchestrated via LangGraph stateful cycles and specialized CrewAI worker agents, the engine validates synthesized patches insid
